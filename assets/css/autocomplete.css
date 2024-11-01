@@ -1,0 +1,13 @@
+.autoComplete_wrapper {
+    position: relative;
+}
+
+.woocommerce form .form-row .input-text,
+.woocommerce-page form .form-row .input-text {
+    height: inherit;
+}
+
+.auto-results-wrapper.auto-is-active {
+    max-height: 250px;
+    overflow: scroll;
+}

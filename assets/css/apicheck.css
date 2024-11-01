@@ -1,0 +1,23 @@
+.apichecknlMessage {
+    background: #f39b16;
+    padding: 10px 20px;
+    color: #ffffff;
+}
+
+.loadinggif {
+    background: url('../img/ajax-loader.gif') no-repeat right center !important;
+    background-size: 6% !important;
+}
+
+.hidden-checkout-field {
+    visibility: hidden !important;
+    display: none !important;
+}
+
+#billing_postcode {
+    text-transform: uppercase;
+}
+
+#shipping_postcode {
+    text-transform: uppercase;
+}

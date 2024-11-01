@@ -1,0 +1,220 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ApiCheck Adres Aanvulling en Validatie voor WooCommerce\n"
+"POT-Creation-Date: 2023-03-14 11:51+0100\n"
+"PO-Revision-Date: 2023-03-14 11:52+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: api-check.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: api-check.php:250 api-check.php:311
+#, fuzzy
+msgid "Plaats of postcode"
+msgstr "Ville ou code postal"
+
+#: api-check.php:251 api-check.php:276 api-check.php:312 api-check.php:337
+#, fuzzy
+msgid "Start met typen..."
+msgstr "Commencez à taper..."
+
+#: api-check.php:275 api-check.php:301 api-check.php:336 api-check.php:360
+#, fuzzy
+msgid "Straat"
+msgstr "Rue"
+
+#: api-check.php:284 api-check.php:344
+msgid "Huisnummer"
+msgstr "Numéro de la maison"
+
+#: api-check.php:293 api-check.php:352
+#, fuzzy
+msgid "Toevoeging"
+msgstr "Addition"
+
+#: assets/js/apicheck-woo-gutenberg.js:246 assets/js/apicheck.js:478
+#, fuzzy
+msgid ""
+"Huisnummer of toevoeging niet gevonden. Controleer het adres, en vul "
+"handmatig aan."
+msgstr ""
+"Numéro de maison ou ajout introuvable. Vérifiez et remplissez manuellement."
+
+#: assets/js/apicheck.js:316
+msgid "Adres handmatig invullen?"
+msgstr "Saisir l’adresse manuellement ?"
+
+#: assets/js/apicheck.js:519 assets/js/apicheck.js:551
+#, fuzzy
+msgid ""
+"Er is geen adres gevonden met deze gegevens. Controleer en vul je adres "
+"handmatig in."
+msgstr ""
+"Aucune adresse n’a été trouvée avec cette information. Vérifiez et entrez "
+"votre adresse manuellement."
+
+#: back/apichecknl_options_page.php:37
+msgid "ApiCheck WooCommerce en Gutenberg Blocks"
+msgstr "ApiCheck WooCommerce et Gutenberg Blocks"
+
+#: back/apichecknl_options_page.php:41
+#, fuzzy
+msgid ""
+"Met onze adres Validatie API weet je 100% zeker dat je klanten het juiste "
+"adres invullen."
+msgstr ""
+"Avec notre API de validation d’adresse, vous savez 100% zeker que vos "
+"clients saisissent la bonne adresse."
+
+#: back/apichecknl_options_page.php:43
+#, fuzzy
+msgid ""
+"Op basis van het geselecteerde land maken wij het de klant zo makkelijk "
+"mogelijk gemaakt om een adres in te voeren."
+msgstr ""
+"En fonction du pays sélectionné, nous facilitons autant que possible la "
+"saisie d’une adresse par le client."
+
+#: back/apichecknl_options_page.php:45
+#, fuzzy
+msgid ""
+"Voor Nederland is een postcode, huisnummer en eventueel toevoeging al "
+"voldoende voor een volledig, en compleet adres. Onze API doet de rest!"
+msgstr ""
+"Pour les Pays-Bas, un code postal, un numéro de maison et éventuellement un "
+"ajout suffisent pour une adresse complète et complète. Notre API fait le "
+"reste !"
+
+#: back/apichecknl_options_page.php:47
+#, fuzzy
+#| msgid ""
+#| "Via het <a href=\"https://app.apicheck.nl/dashboard\">Dashboard</a> is "
+#| "het mogelijk om een API-key aan te maken. Deze key is in het onderstaand "
+#| "formulier nodig."
+msgid ""
+"Via het <a target=\"_blank\" href=\"https://app.apicheck.nl/"
+"dashboard\">Dashboard</a> is het mogelijk om een API-key aan te maken. Deze "
+"key is in het onderstaand formulier nodig."
+msgstr ""
+"Via le <a href=“https://app.apicheck.nl/dashboard”>Tableau de bord</a> il "
+"est possible de créer une clé API. Cette clé est requise dans le formulaire "
+"ci-dessous."
+
+#: back/apichecknl_options_page.php:49
+#, fuzzy
+msgid ""
+"Meer hulp nodig? Neem <a target=\"_blank\" href=\"https://apicheck.nl/faqs/"
+"\">contact</a> op, of bekijk de WordPress plugin <a target=\"_blank\" "
+"href=\"https://apicheck.nl/postcode-api-plugin-installeren/\">documentatie</"
+"a>. "
+msgstr ""
+"Besoin de plus d’aide? <a href=\"https://apicheck.nl/faqs/\">Contactez-nous</"
+"a> ou consultez la <a href=\"https://apicheck.nl/postcode-api-plugin-"
+"installeren/\">documentation</a> du plugin WordPress. "
+
+#: back/apichecknl_options_page.php:52
+msgid "<b>NIEUW</b>: Ondersteuning voor WooCommerce Blocks!"
+msgstr "<b>NOUVEAU</b> : Prise en charge des blocs WooCommerce !"
+
+#: back/apichecknl_options_page.php:54
+msgid ""
+"Onze WooCommerce plugin heeft nu ondersteuning voor WooCommerce Gutenberg "
+"Blocks (<a target=\"_blank\" href=\"https://woocommerce.com/products/"
+"woocommerce-gutenberg-products-block/\">info</a>)"
+msgstr ""
+"Notre plugin WooCommerce prend désormais en charge les blocs WooCommerce "
+"Gutenberg (<a target=\"_blank\" href=\"https://woocommerce.com/products/"
+"woocommerce-gutenberg-products-block/\">info</a>)"
+
+#: back/apichecknl_options_page.php:56
+msgid ""
+"Bekijk onze documentatie voor meer informatie (<a target=\"_blank\" "
+"href=\"https://apicheck.nl/postcode-plugin-woocommerce-blocks/"
+"\">documentatie</a>)"
+msgstr ""
+"Consultez notre documentation pour plus d'informations (<a target=\"_blank\" "
+"href=\"https://apicheck.nl/postcode-plugin-woocommerce-blocks/"
+"\">documentation</a>)"
+
+#: back/apichecknl_options_page.php:62
+#, fuzzy
+msgid "De instellingen zijn opgeslagen."
+msgstr "Les paramètres ont été enregistrés."
+
+#: back/apichecknl_options_page.php:72
+#, fuzzy
+msgid "Schakel plugin in"
+msgstr "Activer le plugin"
+
+#: back/apichecknl_options_page.php:76
+msgid "Controleer ook huisnummer-toevoeging"
+msgstr "Vérifiez également l'ajout du numéro de maison"
+
+#: back/apichecknl_options_page.php:80
+msgid "API key"
+msgstr "Clé API-key"
+
+#: back/apichecknl_options_page.php:82
+#, fuzzy
+msgid "Vul je ApiCheck api-key in"
+msgstr "Entrez votre api-key ApiCheck"
+
+#. Plugin Name of the plugin/theme
+#, fuzzy
+#| msgid "ApiCheck Adres Aanvulling en Validatie voor WooCommerce"
+msgid "ApiCheck Adres Aanvulling voor WooCommerce en Blocks"
+msgstr ""
+"Réapprovisionnement et validation des adresses ApiCheck pour WooCommerce"
+
+#. Plugin URI of the plugin/theme
+#, fuzzy
+msgid "https://apicheck.nl/postcode-api-plugin-installeren/"
+msgstr "https://apicheck.nl/postcode-api-plugin-installeren/"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid ""
+"Met onze adres Validatie API weet je 100% zeker dat je klanten het juiste "
+"adres invullen. Op basis van het geselecteerde land maken wij het de klant "
+"zo makkelijk mogelijk gemaakt om een adres in te voeren!"
+msgstr ""
+"Avec notre API de validation d’adresse, vous savez 100% zeker que vos "
+"clients saisissent la bonne adresse. En fonction du pays sélectionné, nous "
+"rendons aussi facile que possible pour le client d’entrer une adresse!"
+
+#. Author of the plugin/theme
+#, fuzzy
+msgid "ApiCheck"
+msgstr "ApiCheck"
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "https://apicheck.nl/"
+msgstr "https://apicheck.nl/"
+
+#, fuzzy
+#~ msgid ""
+#~ "Deze plugin helpt de gebruikers bij het invullen van adresgegevens. Het "
+#~ "doel van de plugin is het voorkomen van fouten tijdens het invullen van "
+#~ "adresgegevens. Zodra een Nederlandse, Belgische of Luxemburgse gebruikers "
+#~ "zijn/haar postcode en huisnummer invult haalt onze database direct de "
+#~ "straat- en plaatsnaam erbij."
+#~ msgstr ""
+#~ "Ce plugin aide les utilisateurs à remplir les détails de l’adresse. Le "
+#~ "but du plugin est d’éviter les erreurs lors du remplissage des détails de "
+#~ "l’adresse. Dès qu’un utilisateur néerlandais, belge ou luxembourgeois "
+#~ "saisit son code postal et son numéro de maison, notre base de données "
+#~ "récupère immédiatement le nom de la rue et de la ville."

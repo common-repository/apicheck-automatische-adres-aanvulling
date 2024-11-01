@@ -1,0 +1,58 @@
+.apichecknlMessage {
+    background: #fcba03;
+    padding: 10px 20px;
+    color: #222;
+}
+
+.loadinggif {
+    background: url('../img/ajax-loader.gif') no-repeat right center !important;
+    background-size: 6% !important;
+}
+
+.hidden-checkout-field {
+    visibility: hidden !important;
+    display: none !important;
+}
+
+.apichecknlMessage {
+    background: #fcba03;
+    padding: 10px 20px;
+    color: #222;
+}
+
+.loadinggif {
+    background: url('../img/ajax-loader.gif') no-repeat right center !important;
+    background-size: 6% !important;
+}
+
+#billing-postcode {
+    text-transform: uppercase !important;
+}
+
+#shipping-postcode {
+    text-transform: uppercase !important;
+}
+
+.wc-block-components-address-form__street {
+    width: calc(100% - 12px) !important;
+}
+
+.wc-block-components-address-form__housenumber_suffix {
+    width: calc(34% - 12px) !important;
+}
+
+.wc-block-components-address-form__housenumber {
+    width: calc(33% - 12px) !important;
+}
+
+.wc-block-components-address-form__postcode {
+    width: calc(33% - 12px) !important;
+}
+
+.wc-block-components-address-form__city {
+    width: calc(100% - 12px) !important;
+}
+
+.wc-block-components-country-input {
+    width: calc(100% - 12px) !important;
+}
